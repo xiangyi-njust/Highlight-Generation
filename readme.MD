@@ -1,6 +1,6 @@
-*** The code for this paper: Academic paper Highlight Generation Using Prompt-based Learning
+### The code for this paper: Academic paper Highlight Generation Using Prompt-based Learning
 
-**** Project Structure
+#### Project Structure
 
 <pre>
 Highlight-Generation
