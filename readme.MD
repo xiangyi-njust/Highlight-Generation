@@ -2,6 +2,7 @@
 
 **** Project Structure
 
+<pre>
 Highlight-Generation
 ├─ code
 │    ├─ config.MD
@@ -33,3 +34,4 @@ Highlight-Generation
 │           ├─ CsPubSum_test.xlsx
 │           └─ CsPubSum_train.xlsx
 └─ readme.MD
+</pre>
