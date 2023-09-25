@@ -19,11 +19,11 @@ Highlight-Generation
 │    │    ├─ AIPubSum_test.xlsx
 │    │    ├─ AIPubSum_test_aug.xlsx
 │    │    └─ AIPubSum_train.xlsx
-│    ├─ BioPubSum_test_filter	                 highlight dataset that contains the paper from biological field
+│    ├─ BioPubSum                              highlight dataset that contains the paper from biological field
 │    │    ├─ BioPubSum_test.xlsx
 │    │    ├─ BioPubSum_test_filter.xlsx
 │    │    └─ BioPubSum_train.xlsx
-│    └─ CsPubSum_train						             highlight dataset that contains the paper from computer science field
+│    └─ CsPubSum                               highlight dataset that contains the paper from computer science field
 │           ├─ CsPubSum_test.xlsx
 │           └─ CsPubSum_train.xlsx
 └─ readme.MD
