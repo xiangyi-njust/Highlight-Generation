@@ -1,7 +1,9 @@
-### The code for this paper: Academic paper Highlight Generation Using Prompt-based Learning
+# Academic paper Highlight Generation Using Prompt-based Learning
 
-#### Project Structure
+## Overview
+<b> Code and Data for the paper: Academic paper Highlight Generation Using Prompt-based Learning
 
+### Project Structure
 <pre>
 Highlight-Generation
 ├─ code
@@ -28,8 +30,6 @@ Highlight-Generation
 │           └─ CsPubSum_train.xlsx
 └─ readme.MD
 </pre>
-
-
 
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
