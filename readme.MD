@@ -11,9 +11,9 @@ Highlight-Generation
 │    │    ├─ generate.ipynb                    generate the highlight for the provided' abstract, include zero-shot、few-shot setting
 │    │    ├─ new_prompt                        the result files of model generation in the new_prompt(check out our paper) situation
 │    │    ├─ raw_prompt                        the result files of model generation in the raw_prompt(check out our paper) situation
-│    │    ├─ opendata_result				           the result files of model generation in the few-shot setting
+│    │    ├─ opendata_result                   the result files of model generation in the few-shot setting
 │    ├─ Decoder-only.ipynb                     Generate using decoder-only model like gpt2
-│    └─ Encoder-Decoder.ipynb				           Generate using encoder-decoder model T5、BARD、FlanT5
+│    └─ Encoder-Decoder.ipynb                  Generate using encoder-decoder model T5、BARD、FlanT5
 ├─ data
 │    ├─ AIPubSum                               highlight dataset that contains the paper from artificial intelligence field
 │    │    ├─ AIPubSum_test.xlsx
