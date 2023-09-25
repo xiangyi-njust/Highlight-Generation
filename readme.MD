@@ -3,7 +3,7 @@
 ## Overview
 <b> Code and Data for the paper: Academic paper Highlight Generation Using Prompt-based Learning
 
-The aim of this paper is to improve the highlight generation performance in a low scenario, we used three open datasets as benchmark, and explored below pretrained language model inference performance in the zero-shot setting:
+The aim of this paper is to improve the highlight generation performance using prompt-based learning in a low scenario, we used three open datasets as benchmark, and explored below pretrained language model inference performance that just provided the prompts and without parameters update: 
 * **decoder-only**: gpt2
 * **encoder-decoder**: T5, FlanT5, BARD
 * **large language model**: ChatGPT (gpt3.5-turbo-0613)
