@@ -67,4 +67,4 @@ We provide our code in the format of the Jupyter Notebook, so you can follow cel
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Yi Xiang, Chengzhi Zhang. Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning. ***Scientometrics***, 2023. [[doi]()] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
+> Yi Xiang, Chengzhi Zhang. Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning. ***Scientometrics***, 2023.（under review) [[doi]()] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
