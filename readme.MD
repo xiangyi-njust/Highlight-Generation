@@ -54,6 +54,10 @@ Highlight-Generation
 └─ ReadME.md
 </pre>
 
+We provide our code in the format of the Jupyter Notebook, so you can follow cells to run our experiment step by step
+* In order to run the chatgpt for inference, you need to obtain your API key from the openai website, and then replace it in the notebook
+* In order to run the model like gpt2, T5 and so on, you may need the GPU to accelerate your process of inference
+
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
