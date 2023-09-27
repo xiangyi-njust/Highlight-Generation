@@ -54,11 +54,11 @@ Highlight-Generation
 └─ ReadME.md
 </pre>
 
-You can get the papers' link of Elsevier in these two repositories: 
+You can get the papers'(corresponding above three datasets) link of Elsevier in these two repositories: 
 * https://github.com/EdCo95/scientific-paper-summarisation
 * https://github.com/MorenoLaQuatra/domain-specific-academic-dataset (AIPubSum, BioPubSum)
 
-In this paper, we provide the papers content that contain the highlight and abstract, we get these information by crawling the Elsevier website based on the above links
+In this paper, we provide the content of the paper that contains the highlight and abstract, we get this information by crawling the Elsevier website based on the above links
 
 We provide our code in the format of the Jupyter Notebook, so you can follow cells to run our experiment step by step
 * In order to run the chatgpt for inference, you need to obtain your API key from the OpenAI website, and then replace it in the notebook
