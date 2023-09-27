@@ -55,7 +55,7 @@ Highlight-Generation
 </pre>
 
 You can get the papers'(corresponding above three datasets) link of Elsevier in these two repositories: 
-* https://github.com/EdCo95/scientific-paper-summarisation
+* https://github.com/EdCo95/scientific-paper-summarisation (CSPubSum)
 * https://github.com/MorenoLaQuatra/domain-specific-academic-dataset (AIPubSum, BioPubSum)
 
 In this paper, we provide the content of the paper that contains the highlight and abstract, we get this information by crawling the Elsevier website based on the above links
