@@ -1,14 +1,32 @@
-# Academic paper Highlight Generation Using Prompt-based Learning
+# Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning
 
 ## Overview
-<b> Code and Data for the paper: Academic paper Highlight Generation Using Prompt-based Learning
+<b> This repository contains code and data for the paper: Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning
 
 The aim of this paper is to improve the highlight generation performance using prompt-based learning in a low scenario, we used three open datasets as benchmark, and explored below pretrained language model inference performance that just provided the prompts and without parameters update: 
 * **decoder-only**: gpt2
 * **encoder-decoder**: T5, FlanT5, BARD
 * **large language model**: ChatGPT (gpt3.5-turbo-0613)
 
-### Project Structure
+Specifilly, we explored below questions in this paper:
+
+  * Can prompt-based learning improve the performance of pre-trained language models on downstream tasks?
+
+  *  How do factors such as prompt content, demonstration, etc. affect the performance of pretrained language models in prompt-based learning?
+
+  *  Can prompt-based learning achieve performance comparable to current supervised learning methods?
+
+To address the three mentioned issues, we have taken the following experiments: 
+
+   * Firstly, manually formulated prompts and compared the changes in the generation performance of pretrained language models before and after adding prompts
+
+   * Secondly, optimized the prompt design for the best-performing model
+     
+   * Lastly, compared the model performance with optimized designed prompts and state-of-the-art in the few-shot settings
+
+Overall, We applied the prompt-based learning approach to the task of highlight generation, surpassing the performance of previous supervised learning methods while reducing the demand for training data.
+
+## Project Structure
 <pre>
 Highlight-Generation
 ├─ code
@@ -39,4 +57,4 @@ Highlight-Generation
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Yi Xiang, Chengzhi Zhang. Academic paper Highlight Generation Using Prompt-based Learning. ***Scientometrics***, 2023. [[doi]()] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
+> Yi Xiang, Chengzhi Zhang. Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning. ***Scientometrics***, 2023. [[doi]()] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
