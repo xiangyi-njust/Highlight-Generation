@@ -8,7 +8,7 @@ The aim of this paper is to improve the highlight generation performance using p
 * **encoder-decoder**: T5, FlanT5, BARD
 * **large language model**: ChatGPT (gpt3.5-turbo-0613)
 
-Specifilly, we explored below questions in this paper:
+Specifically, we explored below questions in this paper:
 
   * Can prompt-based learning improve the performance of pre-trained language models on downstream tasks?
 
@@ -22,7 +22,7 @@ To address the three mentioned issues, we have taken the following experiments:
 
    * Secondly, optimized the prompt design for the best-performing model
      
-   * Lastly, compared the model performance with optimized designed prompts and state-of-the-art in the few-shot settings
+   * Lastly, compare the model performance with optimized designed prompts and state-of-the-art in the few-shot settings
 
 Overall, We applied the prompt-based learning approach to the task of highlight generation, surpassing the performance of previous supervised learning methods while reducing the demand for training data.
 
@@ -54,9 +54,14 @@ Highlight-Generation
 └─ ReadME.md
 </pre>
 
+You can get the papers' link of Elsevier in these two repositories: 
+* https://github.com/EdCo95/scientific-paper-summarisation
+* https://github.com/MorenoLaQuatra/domain-specific-academic-dataset (AIPubSum, BioPubSum)
+In this paper, we provide the paper contents that contains the highlight and abstract, we get this information by crawling the Elsevier website based on the above links
+
 We provide our code in the format of the Jupyter Notebook, so you can follow cells to run our experiment step by step
-* In order to run the chatgpt for inference, you need to obtain your API key from the openai website, and then replace it in the notebook
-* In order to run the model like gpt2, T5 and so on, you may need the GPU to accelerate your process of inference
+* In order to run the chatgpt for inference, you need to obtain your API key from the OpenAI website, and then replace it in the notebook
+* In order to run the models like gpt2, T5, and so on, you may need the GPU to accelerate your process of inference
 
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
