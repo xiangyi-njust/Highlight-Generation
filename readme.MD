@@ -31,24 +31,24 @@ Overall, We applied the prompt-based learning approach to the task of highlight 
 Highlight-Generation
 ├─ code
 │    ├─ ChatGPT                                Generate using chatgpt model
-│    │    ├─ evaluation.ipynb                  evaluate the model performance
-│    │    ├─ statistic.ipynb                   calculates the basic information of the dataset and calculates the demonstration
-│    │    ├─ generate.ipynb                    generates the highlight for the provided' abstract, including zero-shot,few-shot setting
-│    │    ├─ new_prompt                        the result files of model generation in the new_prompt(check out our paper) situation
-│    │    ├─ raw_prompt                        the result files of model generation in the raw_prompt(check out our paper) situation
-│    │    ├─ opendata_result                   the result files of model generation in the few-shot setting
+│    │    ├─ evaluation.ipynb                  Evaluate the model performance
+│    │    ├─ statistic.ipynb                   Calculates the basic information of the dataset and calculates the demonstration
+│    │    ├─ generate.ipynb                    Generates the highlight for the provided' abstract, including zero-shot,few-shot setting
+│    │    ├─ new_prompt                        Result files of model generation in the new_prompt(check out our paper) situation
+│    │    ├─ raw_prompt                        Result files of model generation in the raw_prompt(check out our paper) situation
+│    │    ├─ opendata_result                   Result files of model generation in the few-shot setting
 │    ├─ Decoder-only.ipynb                     Generate using a decoder-only model like gpt2
 │    └─ Encoder-Decoder.ipynb                  Generate using encoder-decoder model T5、BARD、FlanT5
 ├─ data
-│    ├─ AIPubSum                               highlights dataset that contains the paper from the artificial intelligence field
+│    ├─ AIPubSum                               Highlights dataset that contains the paper from the artificial intelligence field
 │    │    ├─ AIPubSum_test.xlsx
 │    │    ├─ AIPubSum_test_aug.xlsx
 │    │    └─ AIPubSum_train.xlsx
-│    ├─ BioPubSum                              highlights dataset that contains the paper from the biological field
+│    ├─ BioPubSum                              Highlights dataset that contains the paper from the biological field
 │    │    ├─ BioPubSum_test.xlsx
 │    │    ├─ BioPubSum_test_filter.xlsx
 │    │    └─ BioPubSum_train.xlsx
-│    └─ CsPubSum                               highlights dataset that contains the paper from the computer science field
+│    └─ CsPubSum                               Highlights dataset that contains the paper from the computer science field
 │           ├─ CsPubSum_test.xlsx
 │           └─ CsPubSum_train.xlsx
 └─ ReadME.md
