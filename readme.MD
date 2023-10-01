@@ -57,9 +57,9 @@ Highlight-Generation
 ### Dataset Discription
 On the one hand, the three data sets used in the experiment are in different fields of selected papers, and on the other hand, the size of the data sets is also quite different.
 The original data set is used for supervised learning training. Since in this study we only consider the situation without parameter updates, we do not care about the size of the training set, so only the number of test samples for each data set is described here:
- * CsPubSum_test: 190
+ * CsPubSum_test: 150
  * AIPubSum_test: 65
- * BioPubSum_test: 2100
+ * BioPubSum_test: 2685
 
 You can get the papers'(corresponding above three datasets) link of Elsevier in these two repositories: 
  * https://github.com/EdCo95/scientific-paper-summarisation (CSPubSum)
