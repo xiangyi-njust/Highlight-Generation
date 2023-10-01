@@ -26,7 +26,7 @@ To address the three mentioned issues, we have taken the following experiments:
 
 Overall, We applied the prompt-based learning approach to the task of highlight generation, surpassing the performance of previous supervised learning methods while reducing the demand for training data.
 
-## Project Structure
+## Directory structure
 <pre>
 Highlight-Generation
 ├─ code
