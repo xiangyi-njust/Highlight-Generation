@@ -54,7 +54,7 @@ Highlight-Generation
 └─ ReadME.md
 </pre>
 
-### Dataset Discription
+## Dataset Discription
 On the one hand, the three data sets used in the experiment are in different fields of selected papers, and on the other hand, the size of the data sets is also quite different.
 The original data set is used for supervised learning training. Since in this study we only consider the situation without parameter updates, we do not care about the size of the training set, so only the number of test samples for each data set is described here:
  * CsPubSum_test: 150
@@ -67,7 +67,7 @@ You can get the papers'(corresponding above three datasets) link of Elsevier in 
 
 In this paper, we provide the content of the paper that contains the highlight and abstract, we get this information by crawling the Elsevier website based on the above links
 
-### Quick Start
+## Quick Start
 We provide our code in the format of the Jupyter Notebook, so you can follow cells to run our experiment step by step
  * In order to run the chatgpt for inference, you need to obtain your API key from the OpenAI website, and then replace it in the notebook
  * In order to run models like gpt2, T5, and so on, you may need the GPU to accelerate your process of inference
