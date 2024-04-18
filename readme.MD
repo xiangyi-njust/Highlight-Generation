@@ -1,7 +1,7 @@
-# Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning
+# Automatic Generation of Highlight for Academic Papers Via Prompt-based Learning
 
 ## Overview
-This repository contains code and data for the paper: Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning
+This repository contains code and data for the paper: Automatic Generation of Highlight for Academic Papers Via Prompt-based Learning
 
 The aim of this paper is to improve the highlight generation performance using prompt-based learning in a low scenario, we used three open datasets as benchmark, and explored below pretrained language model inference performance that just provided the prompts and without parameters update: 
 * **decoder-only**: gpt2
