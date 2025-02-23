@@ -1,4 +1,4 @@
-# Automatic Generation of Highlight for Academic Papers Via Prompt-based Learning
+# Automatic Generation of Highlights for Academic Paper via Prompt-based Learning
 
 ## Overview
 This repository contains code and data for the paper: Automatic Generation of Highlight for Academic Papers Via Prompt-based Learning
@@ -75,4 +75,4 @@ We provide our code in the format of the Jupyter Notebook, so you can follow cel
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Yi Xiang, Chengzhi Zhang\*, Heng Zhang. Enhancing Highlight Generation from Academic Articles Using Prompt-based Learning. ***Library Hi Tech***, 2023.（under review) [[doi]()] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
+> Yi Xiang, Chengzhi Zhang\*, Heng Zhang. Automatic Generation of Highlights for Academic Paper via Prompt-based Learning. ***Library Hi Tech***, 2025.（in press) [[doi](https://doi.org/10.1108/LHT-02-2024-0112)] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
